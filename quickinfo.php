@@ -4,8 +4,9 @@ Plugin Name: Quick Info
 Plugin URI: https://shamskhan.xyz
 Description: Display Quick Information on Dashboard
 Author: Shams Khan
-Version: 1.0
-Author URI: https://shamskhan.xyz
+Version: 1.0.0
+Domain: quick-info
+Author URI: https://shamskhan.com
 */
 
 if( !defined('ABSPATH'))
